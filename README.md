@@ -1,6 +1,6 @@
-<div align="center" width="50">
-    <img alt="wijegoonawardana.com" src="./assets/oh hi there.png" width="300"/>
-</div>
+<p align="center">
+  <img alt="Sergie Code" src="https://raw.githubusercontent.com/sergiecode/sergiecode/main/banner.png">
+</p>
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Mi nombre es Kevin</h1>
 
 <!--
